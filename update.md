@@ -1,4 +1,4 @@
-##### * Güncelleme için aşağıdaki adımları yapmak yeterli, en altta linki bulunan videoyla da işlemleri adım adım yapabilirsiniz. Bu işlemleri ilk videomdan yapanlar için geçerlidir.
+##### * Güncelleme için aşağıdaki adımları yapmak yeterli, en altta linki bulunan videoyla da işlemleri adım adım yapabilirsiniz. Bu işlemler ilk videomdan yapanlar için geçerlidir.
 ##### * İlk işlem olarak ``tmux ls`` yazıp tmux ekranlarını sıralıyoruz. Daha sonra starknet node çalıştığı tmux ekranına ```tmux attach -t ekranismi``` yazarak giriş yapıyoruz.
 ##### * Daha sonra ``ctrl+c`` ye basarak node durduruyoruz ve ``ctrl+b`` ye basıp daha sonra sadece ``d`` ye basarak tmuxdan çıkıyoruz. 
 ##### * Aşağıdaki kodları sırayla giriyoruz. Versiyon kısmına işlemleri yaptığınız zamanda en son hangi versiyon ise (https://github.com/eqlabs/pathfinder buradan bakınız) onu giriyoruz. Yeni bir tmux açmamızın nedeni işlemler uzun sürdüğü için Putty ile olan bağlantı kesilirse yükleme işleminde sorun olmasını engellemek. Son koddan sonra başlayan işlem uzun sürüyor.
