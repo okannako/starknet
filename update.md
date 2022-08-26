@@ -19,3 +19,4 @@ cargo build --release --bin pathfinder
 ##### * Kurulum Videosu
   * https://www.youtube.com/watch?v=xS5KkJSBj2I&t=1s
 ##### * Güncelleme Videosu
+  * https://www.youtube.com/watch?v=0o4q-sNPxIA
