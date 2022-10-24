@@ -20,3 +20,9 @@ cargo build --release --bin pathfinder
   * https://www.youtube.com/watch?v=xS5KkJSBj2I&t=1s
 ##### * Güncelleme Videosu
   * https://www.youtube.com/watch?v=0o4q-sNPxIA
+
+##### * Hata alırsanız şu iki kodu node durdurduktan sonra venv için çalıştırın ve sonradan tekrar start yapın.
+```
+PIP_REQUIRE_VIRTUALENV=true pip install --upgrade pip
+PIP_REQUIRE_VIRTUALENV=true pip install -r requirements-dev.txt
+```
