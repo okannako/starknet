@@ -23,6 +23,7 @@ cargo build --release --bin pathfinder
 
 ##### * Hata alırsanız şu iki kodu node durdurduktan sonra venv için çalıştırın ve sonradan tekrar start yapın.
 ```
+. /root/pathfinder/py/.venv/bin/activate
 PIP_REQUIRE_VIRTUALENV=true pip install --upgrade pip
 PIP_REQUIRE_VIRTUALENV=true pip install -r requirements-dev.txt
 ```
